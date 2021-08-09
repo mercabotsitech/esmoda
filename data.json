@@ -1,15 +1,15 @@
 {"data":[
-{"producto":"VELEZ Trio","unidad":3,"precio":72,"talla":"","img":"img/VelezTrio.JPEG"},
-{"producto":"Bodys Polilycra","unidad":1,"precio":45,"talla":"","img":"img/BodyPolylicra.JPEG"},
-{"producto":"Sandalia tacon corrido","unidad":1,"precio":65,"talla":"37 AL 40","img":"img/SandaliaTaconCorrido.JPEG"},
-{"producto":"Calzado Hugo Boss","unidad":1,"precio":65,"talla":"37 AL 43","img":"img/HugoBOOS.JPEG"},
-{"producto":"Bolso VELEZ COMBO","unidad":2,"precio":68,"talla":"","img":"img/BolsoVelezCombo.JPEG"},
-{"producto":"Converse Kids","unidad":1,"precio":48,"talla":"24 AL 35","img":"img/ConverseKids.JPEG"},
-{"producto":"BRAHMA CAÑA ALTA","unidad":1,"precio":68,"talla":"37 AL 40","img":"img/BrahmaCañaAlta.JPEG"},
-{"producto":"NIKE 354","unidad":1,"precio":65,"talla":"37 AL 43","img":"img/Nike.JPEG"},
-{"producto":"SANDALIA TACOS","unidad":1,"precio":58,"talla":"37 AL 40","img":"img/SandaliaTacos.JPEG"},
-{"producto":"COMBO BOTIN CASUAL Y BOLSO","unidad":2,"precio":168,"talla":"37 AL 43","img":"img/ComboBotinCasualYBolso.JPEG"},
-{"producto":"BOLSO DE YUTE Y TACON","unidad":2,"precio":108,"talla":"37 AL 40","img":"img/BolsoDeYuteYTacon.JPEG"},
-{"producto":"BOLSO DE YUTE Y PLATAFORMA","unidad":2,"precio":70,"talla":"37 AL 40","img":"img/BolsoDeYuteYPlataforma.JPEG"},
-{"producto":"BOLSO DE YUTE Y PLATAFORMA","unidad":2,"precio":70,"talla":"37 AL 40","img":"img/BolsoDeYuteYPlataforma.JPEG"}
+{"producto":"velez trio","unidad":3,"precio":72,"talla":"","categoria":"accesorios","img/portfolio":"img/portfolio/Velez Trio.jpeg"},
+{"producto":"bodys polilycra","unidad":1,"precio":45,"talla":"","categoria":"ropa femenina","img/portfolio":"img/portfolio/Bodys Polylicras.jpeg"},
+{"producto":"sandalia tacon corrido","unidad":1,"precio":65,"talla":"37 AL 40","categoria":"calzado femenino","img/portfolio":"img/portfolio/SandaliaTaconCorrido.jpeg"},
+{"producto":"calzado hugo boss","unidad":1,"precio":65,"talla":"37 AL 43","categoria":"calzado masculino","img/portfolio":"img/portfolio/HugoBOOS.jpg"},
+{"producto":"bolso velez combo","unidad":2,"precio":68,"talla":"","categoria":"accesorios","img/portfolio":"img/portfolio/BolsoVelezCombo.JPEG"},
+{"producto":"converse kids","unidad":1,"precio":48,"talla":"24 AL 35","categoria":"calzado infantil","img/portfolio":"img/portfolio/ConverseKids.JPEG"},
+{"producto":"brahma caña alta","unidad":1,"precio":68,"talla":"37 AL 40","categoria":"calzado femenino","img/portfolio":"img/portfolio/BrahmaCañaAlta.JPEG"},
+{"producto":"nike 354","unidad":1,"precio":65,"talla":"37 AL 43","categoria":"calzado masculino","img/portfolio":"img/portfolio/Nike.JPEG"},
+{"producto":"sandalia tacos","unidad":1,"precio":58,"talla":"37 AL 40","categoria":"calzado femenino","img/portfolio":"img/portfolio/SandaliaTacos.JPEG"},
+{"producto":"combo botin casual y bolso","unidad":2,"precio":168,"talla":"37 AL 43","categoria":"accesorios","img/portfolio":"img/portfolio/ComboBotinCasualYBolso.JPEG"},
+{"producto":"bolso de yute y tacon","unidad":2,"precio":108,"talla":"37 AL 40","categoria":"accesorios","img/portfolio":"img/portfolio/BolsoDeYuteYTacon.JPEG"},
+{"producto":"bolso de yute y plataforma","unidad":2,"precio":70,"talla":"37 AL 40","categoria":"accesorios","img/portfolio":"img/portfolio/BolsoDeYuteYPlataforma.JPEG"},
+{"producto":"bolso de yute y plataforma","unidad":2,"precio":70,"talla":"37 AL 40","categoria":"accesorios","img/portfolio":"img/portfolio/BolsoDeYuteYPlataforma.JPEG"}
 ]}
